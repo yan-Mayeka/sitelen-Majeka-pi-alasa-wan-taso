@@ -12,4 +12,5 @@ It also includes þe nimisin: owe, su, isipin, and pokasi.
 It also includes þe Majeka/muun name glyph for jan Majeka, aswell as ligatures for meli+awen, jan+e, and ko+ale.
 
 Þe main feature is all of þe glyphs are my first time drawing þem for þis font.
+
 CC BY-ND 4.0
