@@ -15,7 +15,7 @@ ligatures = true
 name = "sitelen Majeka pi alasa wan taso"
 style = "handwritten"
 ucsur = true
-version = "1.0"
+version = "1.0.1"
 writing_system = "sitelen pona"
 
 [links]
