@@ -13,4 +13,4 @@ It also includes þe Majeka/muun name glyph for jan Majeka, aswell as ligatures 
 
 Þe main feature is all of þe glyphs are my first time drawing þem for þis font.
 
-CC01
+CC0 1.0
